@@ -1,0 +1,28 @@
+h1 {
+background-color: #EA5169;
+text-align: center;
+
+}
+
+h2 {
+background-color: #EA5169;
+text-align: center;
+
+}
+
+li {
+list-style-type: none;
+text-align: center;
+
+}
+
+.navigationbar {
+
+display: flex;
+
+}
+
+.search {
+ float: right;
+
+}
