@@ -2,24 +2,29 @@ h1 {
 background-color: #EA5169;
 text-align: center;
 }
+
 h2 {
 background-color: #EA5169;
 text-align: center;
 }
+
 li {
 list-style-type: none;
 text-align: center;
 }
+
 #navbar {
 display: flex;
 flex-direction: row;
 justify-content: space-around;
 margin-left: 50px;
 }
+
 #navbar:nth-child(2) {
 float: left;
 margin-left: 100px;
 }
+
 #navbar{
 background-color: rgb(85, 130, 69);
 }
@@ -31,11 +36,10 @@ border: 5px solid #EA5169;
 border-radius: 50%;
 
 }
-<<<<<<< HEAD
 
 .footer {
 
-  background-color: pink;
+  background-color: #EA5169;
   text-align: center;
   height: 80px;
   width: 100%;
@@ -43,5 +47,3 @@ border-radius: 50%;
 body {
   background-image: url('https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2018-12/10889-The_Watermelon_Diet_Fact_or_Fiction-_1296x728-header.jpg?w=1155');
 }
-=======
->>>>>>> parent of 83ee24c... Changed color of Footer
