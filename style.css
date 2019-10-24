@@ -26,3 +26,10 @@ display: flex;
  float: right;
 
 }
+
+img {
+
+border: 5px solid #EA5169;
+border-radius: 50%;
+
+}
