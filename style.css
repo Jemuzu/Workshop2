@@ -16,9 +16,10 @@ text-align: center;
 
 }
 
-.navigationbar {
+ul {
 
-display: flex;
+display: block;
+flex-direction: row;
 
 }
 
